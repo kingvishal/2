@@ -1,0 +1,1 @@
+// AdMob banner placeholder
